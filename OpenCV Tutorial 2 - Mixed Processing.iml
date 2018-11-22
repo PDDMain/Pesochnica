@@ -23,5 +23,19 @@
     <orderEntry type="jdk" jdkName="Android API 27 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="java" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../ФТШ/Практика/Библиотеки/OpenCV-android-sdk/sdk" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://$MODULE_DIR$/../../ФТШ/Практика/Библиотеки/OpenCV-android-sdk/sdk/java/javadoc" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../ФТШ/Практика/Библиотеки/OpenCV-android-sdk/sdk/java/gen" />
+          <root url="file://$MODULE_DIR$/../../ФТШ/Практика/Библиотеки/OpenCV-android-sdk/sdk/java/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>

@@ -1,6 +1,7 @@
 package org.opencv.samples.tutorial2;
 
 import android.graphics.Color;
+import android.util.Size;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -11,6 +12,8 @@ import org.opencv.android.OpenCVLoader;
 import org.opencv.core.*;
 import org.opencv.android.CameraBridgeViewBase;
 import org.opencv.android.CameraBridgeViewBase.CvCameraViewListener2;
+import org.opencv.core.CvType;
+import org.opencv.core.Mat;
 import org.opencv.imgproc.Imgproc;
 
 import android.app.Activity;
@@ -87,16 +90,16 @@ public class Tutorial2Activity extends Activity implements CvCameraViewListener2
         mOpenCvCameraView = (CameraBridgeViewBase) findViewById(R.id.tutorial2_activity_surface_view);
         mOpenCvCameraView.setVisibility(CameraBridgeViewBase.VISIBLE);
         mOpenCvCameraView.setCvCameraViewListener(this);
-
-        EditText number1 = findViewById(R.id.editText1);
-        EditText number2 = findViewById(R.id.editText2);
-        Button button = findViewById(R.id.button);
-        button.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) {
-                NUMBER1 = Integer.parseInt(number1.getText().toString());
-                NUMBER2 = Integer.parseInt(number1.getText().toString());
-            }
-        });
+//
+//        EditText number1 = findViewById(R.id.editText1);
+//        EditText number2 = findViewById(R.id.editText2);
+//        Button button = findViewById(R.id.button);
+//        button.setOnClickListener(new View.OnClickListener() {
+//            public void onClick(View v) {
+//                NUMBER1 = Integer.parseInt(number1.getText().toString());
+//                NUMBER2 = Integer.parseInt(number1.getText().toString());
+//            }
+//        });
     }
 
     @Override
@@ -178,11 +181,11 @@ public class Tutorial2Activity extends Activity implements CvCameraViewListener2
             case VIEW_MODE_NEW:
                 mRgba = inputFrame.rgba();
 //               Imgproc.Scharr(inputFrame.rgba(), mRgba, 10, 100, 100);
-                Imgproc.GaussianBlur(inputFrame.rgba(), mRgba, new Size(11, 7), 1.5);
+                Imgproc.GaussianBlur(inputFrame.rgba(), mRgba, new org.opencv.core.Size(11, 7), 1.5);
                 break;
             case VIEW_MODE_BLUR:
                 mRgba = inputFrame.rgba();
-                Imgproc.blur(inputFrame.rgba(), mRgba, (new Size(11, 7)));
+                Imgproc.blur(inputFrame.rgba(), mRgba, (new org.opencv.core.Size(11, 7)));
                 break;
         }
 

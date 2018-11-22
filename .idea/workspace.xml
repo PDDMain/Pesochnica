@@ -10,7 +10,30 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dabc067-300d-460e-b265-ca3501662c85" name="Default" comment="" />
+    <list default="true" id="1dabc067-300d-460e-b265-ca3501662c85" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/OpenCV Tutorial 2 - Mixed Processing.iml" afterPath="$PROJECT_DIR$/OpenCV Tutorial 2 - Mixed Processing.iml" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/OpenCV Tutorial 2 - Mixed Processing.apk" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/OpenCV Tutorial 2 - Mixed Processing.unaligned.apk" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/org/opencv/BuildConfig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/org/opencv/R$attr.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/org/opencv/R$id.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/org/opencv/R$styleable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/org/opencv/R.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/org/opencv/samples/tutorial2/BuildConfig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/org/opencv/samples/tutorial2/R$attr.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/org/opencv/samples/tutorial2/R$drawable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/org/opencv/samples/tutorial2/R$id.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/org/opencv/samples/tutorial2/R$layout.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/org/opencv/samples/tutorial2/R$string.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/org/opencv/samples/tutorial2/R$styleable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/org/opencv/samples/tutorial2/R.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/org/opencv/samples/tutorial2/Tutorial2Activity$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/org/opencv/samples/tutorial2/Tutorial2Activity$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/org/opencv/samples/tutorial2/Tutorial2Activity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/org/opencv/samples/tutorial2/Tutorial2Activity.java" afterPath="$PROJECT_DIR$/src/org/opencv/samples/tutorial2/Tutorial2Activity.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/bin/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,61 +51,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Tutorial2Activity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Tutorial2Activity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/org/opencv/samples/tutorial2/Tutorial2Activity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="38" column="4" lean-forward="false" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="22" />
+            <state relative-caret-position="-616">
+              <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2343#2344#0" expanded="true" />
-                <element signature="e#2408#2409#0" expanded="true" />
+                <element signature="e#2428#2429#0" expanded="true" />
+                <element signature="e#2493#2494#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Imgproc.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../sdk/java/src/org/opencv/imgproc/Imgproc.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="37175">
-              <caret line="1506" column="0" lean-forward="false" selection-start-line="1506" selection-start-column="0" selection-end-line="1506" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tutorial2_surface_view.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tutorial2_surface_view.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/layout/tutorial2_surface_view.xml">
           <provider editor-type-id="android-designer2">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="51" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+            <state relative-caret-position="215">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Activity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-27/android/app/Activity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83425">
-              <caret line="3533" column="28" lean-forward="false" selection-start-line="3533" selection-start-column="28" selection-end-line="3533" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jni_part.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jni/jni_part.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-              <folding>
-                <marker date="1539369866175" expanded="true" signature="2:879" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -93,6 +83,9 @@
     <findStrings>
       <find>mIntermediateMat</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -110,8 +103,8 @@
         <option value="$PROJECT_DIR$/jni/jni_part.cpp" />
         <option value="$USER_HOME$/AppData/Local/Android/Sdk/sources/android-27/java/lang/Runtime.java" />
         <option value="$PROJECT_DIR$/../../sdk/java/src/org/opencv/imgproc/Imgproc.java" />
-        <option value="$PROJECT_DIR$/src/org/opencv/samples/tutorial2/Tutorial2Activity.java" />
         <option value="$PROJECT_DIR$/res/layout/tutorial2_surface_view.xml" />
+        <option value="$PROJECT_DIR$/src/org/opencv/samples/tutorial2/Tutorial2Activity.java" />
       </list>
     </option>
   </component>
@@ -136,58 +129,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="tutorial-2-mixedprocessing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tutorial-2-mixedprocessing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tutorial-2-mixedprocessing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tutorial-2-mixedprocessing" type="462c0819:PsiDirectoryNode" />
-              <item name="jni" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tutorial-2-mixedprocessing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tutorial-2-mixedprocessing" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tutorial-2-mixedprocessing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tutorial-2-mixedprocessing" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="layout" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tutorial-2-mixedprocessing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tutorial-2-mixedprocessing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tutorial-2-mixedprocessing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tutorial-2-mixedprocessing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorial2" type="462c0819:PsiDirectoryNode" />
+              <item name="Pesochnica" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pesochnica" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Android Logcat" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="device.picker.selection" value="Samsung_Galaxy_Sm-J510FN_API_22" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../на 16.11.2018/tutorial-1-camerapreview" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ФТШ/Практика/Библиотеки/OpenCV-android-sdk/sdk" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -340,34 +307,34 @@
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.49783784" order="6" side_tool="false" content_ui="tabs" x="32" y="664" width="1850" height="279" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15675676" sideWeight="0.5070422" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40141678" sideWeight="0.5075676" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45336482" sideWeight="0.49351352" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.49567568" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45260665" sideWeight="0.49351352" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20918919" sideWeight="0.49295774" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24972972" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10770975" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.49783784" order="6" side_tool="false" content_ui="tabs" x="32" y="664" width="1850" height="279" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4407583" sideWeight="0.49243245" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.49567568" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20918919" sideWeight="0.49295774" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15675676" sideWeight="0.5070422" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40141678" sideWeight="0.49243245" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -400,21 +367,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2343#2344#0" expanded="true" />
-            <element signature="e#2408#2409#0" expanded="true" />
+            <element signature="e#2428#2429#0" expanded="true" />
+            <element signature="e#2493#2494#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../sdk/java/src/org/opencv/imgproc/Imgproc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25000">
-          <caret line="1000" column="51" lean-forward="false" selection-start-line="1000" selection-start-column="48" selection-end-line="1000" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../sdk/java/src/org/opencv/imgproc/Imgproc.java" />
     <entry file="file://$PROJECT_DIR$/res/layout/tutorial2_surface_view.xml">
       <provider selected="true" editor-type-id="android-designer2">
         <state />
@@ -456,21 +415,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2343#2344#0" expanded="true" />
-            <element signature="e#2408#2409#0" expanded="true" />
+            <element signature="e#2428#2429#0" expanded="true" />
+            <element signature="e#2493#2494#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../sdk/java/src/org/opencv/imgproc/Imgproc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25000">
-          <caret line="1000" column="51" lean-forward="false" selection-start-line="1000" selection-start-column="48" selection-end-line="1000" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../sdk/java/src/org/opencv/imgproc/Imgproc.java" />
     <entry file="file://$PROJECT_DIR$/res/layout/tutorial2_surface_view.xml">
       <provider selected="true" editor-type-id="android-designer2">
         <state />
@@ -512,21 +463,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2343#2344#0" expanded="true" />
-            <element signature="e#2408#2409#0" expanded="true" />
+            <element signature="e#2428#2429#0" expanded="true" />
+            <element signature="e#2493#2494#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../sdk/java/src/org/opencv/imgproc/Imgproc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25000">
-          <caret line="1000" column="51" lean-forward="false" selection-start-line="1000" selection-start-column="48" selection-end-line="1000" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../sdk/java/src/org/opencv/imgproc/Imgproc.java" />
     <entry file="file://$PROJECT_DIR$/res/layout/tutorial2_surface_view.xml">
       <provider selected="true" editor-type-id="android-designer2">
         <state />
@@ -568,21 +511,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2343#2344#0" expanded="true" />
-            <element signature="e#2408#2409#0" expanded="true" />
+            <element signature="e#2428#2429#0" expanded="true" />
+            <element signature="e#2493#2494#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../sdk/java/src/org/opencv/imgproc/Imgproc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25000">
-          <caret line="1000" column="51" lean-forward="false" selection-start-line="1000" selection-start-column="48" selection-end-line="1000" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../sdk/java/src/org/opencv/imgproc/Imgproc.java" />
     <entry file="file://$PROJECT_DIR$/res/layout/tutorial2_surface_view.xml">
       <provider selected="true" editor-type-id="android-designer2">
         <state />
@@ -624,21 +559,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2343#2344#0" expanded="true" />
-            <element signature="e#2408#2409#0" expanded="true" />
+            <element signature="e#2428#2429#0" expanded="true" />
+            <element signature="e#2493#2494#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../sdk/java/src/org/opencv/imgproc/Imgproc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25000">
-          <caret line="1000" column="51" lean-forward="false" selection-start-line="1000" selection-start-column="48" selection-end-line="1000" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../sdk/java/src/org/opencv/imgproc/Imgproc.java" />
     <entry file="file://$PROJECT_DIR$/res/layout/tutorial2_surface_view.xml">
       <provider selected="true" editor-type-id="android-designer2">
         <state />
@@ -680,21 +607,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2343#2344#0" expanded="true" />
-            <element signature="e#2408#2409#0" expanded="true" />
+            <element signature="e#2428#2429#0" expanded="true" />
+            <element signature="e#2493#2494#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../sdk/java/src/org/opencv/imgproc/Imgproc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25000">
-          <caret line="1000" column="51" lean-forward="false" selection-start-line="1000" selection-start-column="48" selection-end-line="1000" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../sdk/java/src/org/opencv/imgproc/Imgproc.java" />
     <entry file="file://$PROJECT_DIR$/res/layout/tutorial2_surface_view.xml">
       <provider selected="true" editor-type-id="android-designer2">
         <state />
@@ -736,9 +655,8 @@
         <state relative-caret-position="500">
           <caret line="20" column="37" lean-forward="false" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2343#2344#0" expanded="true" />
-            <element signature="e#2408#2409#0" expanded="true" />
+            <element signature="e#2428#2429#0" expanded="true" />
+            <element signature="e#2493#2494#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -772,9 +690,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2343#2344#0" expanded="true" />
-            <element signature="e#2408#2409#0" expanded="true" />
+            <element signature="e#2428#2429#0" expanded="true" />
+            <element signature="e#2493#2494#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -796,13 +713,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../sdk/java/src/org/opencv/core/CvType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="15" column="75" lean-forward="false" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../sdk/java/src/org/opencv/core/CvType.java" />
     <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-27/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
@@ -810,17 +721,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../sdk/java/src/org/opencv/imgproc/Imgproc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37175">
-          <caret line="1506" column="0" lean-forward="false" selection-start-line="1506" selection-start-column="0" selection-end-line="1506" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../sdk/java/src/org/opencv/imgproc/Imgproc.java" />
     <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-27/android/app/Activity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83425">
+        <state relative-caret-position="25">
           <caret line="3533" column="28" lean-forward="false" selection-start-line="3533" selection-start-column="28" selection-end-line="3533" selection-end-column="28" />
           <folding />
         </state>
@@ -836,26 +740,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/opencv/samples/tutorial2/Tutorial2Activity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="38" column="4" lean-forward="false" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2343#2344#0" expanded="true" />
-            <element signature="e#2408#2409#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/tutorial2_surface_view.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="51" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+        <state relative-caret-position="215">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/opencv/samples/tutorial2/Tutorial2Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-616">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="e#2428#2429#0" expanded="true" />
+            <element signature="e#2493#2494#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -911,12 +814,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>java</last-edited>
+          <last-edited>OpenCV Tutorial 2 - Mixed Processing</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
